@@ -1,0 +1,7 @@
+{
+    "name": "comzap/app",
+    "require": {
+        "php": ">=7.3",
+        "laravel/framework": "^8.0"
+    }
+}
